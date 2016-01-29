@@ -14,5 +14,5 @@ and add one or more items to the list. Then, commit your changes and push them.
 1. Pizza
 2. Cheese
 3. Oreos
-4. Carrots
-5. Celery
+4. Broccoli
+5. Fries
