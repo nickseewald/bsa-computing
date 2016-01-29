@@ -17,3 +17,4 @@ and add one or more items to the list. Then, commit your changes and push them.
 4. Carrots
 5. Celery
 6. Quiche
+7. Root vegetables
