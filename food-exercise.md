@@ -16,5 +16,5 @@ and add one or more items to the list. Then, commit your changes and push them.
 3. Oreos
 4. Carrots
 5. Celery
-6. Quiche
-7. Root vegetables
+6. Chris Harvey's Spilled Smoothie
+7. Waffles
